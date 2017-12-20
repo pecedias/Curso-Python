@@ -1,0 +1,9 @@
+# Potência: pow(4,3)
+
+# Raiz Quadrada: 81**(1/2)
+
+# Multiplicar um texto: print('='*20)
+
+# Alinhar um texto: print('Prazer em te conhecer {:> ou ^ 20}' .format(nome))
+
+# Diminuir ponto flutuante {:.2f}
